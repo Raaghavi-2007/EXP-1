@@ -1,10 +1,11 @@
 # EXP-1
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 
-AIM
-a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit.
+AIM:
 
-b.   To verify Kirchhoff’s Current Law (KCL) for the given circuits.
+  a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit.
+
+  b.   To verify Kirchhoff’s Current Law (KCL) for the given circuits.
 
 APPARATUS REQUIRED:
 
